@@ -1,4 +1,4 @@
-f = open("second/second.txt", "r")
+f = open("2024/second/second.txt", "r")
 line=f.read().split("\n")
 safeReports = 0
 for j in line:
